@@ -19,10 +19,9 @@ namespace CuttingMachineReport
 
         private void buttonLogin_Click(object sender, EventArgs e)
         {
-            string name = textBoxName.Text;
             string password = textBoxPassword.Text;
             // Add your login logic here
-            MessageBox.Show($"Name: {name}\nPassword: {password}");
+            MessageBox.Show($"\nPassword: {password}");
         }
     }
 }

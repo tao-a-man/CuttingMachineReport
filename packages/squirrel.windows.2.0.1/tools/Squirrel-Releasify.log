@@ -34,3 +34,15 @@ File name: 'CuttingMachineReport.1.0.0.nupkg'
 [22/05/25 15:54:07] info: ReleasePackage: No release notes found in C:\Users\aegon.nguyen\AppData\Local\SquirrelTemp\tempa\CuttingMachineReport.nuspec
 [22/05/25 15:54:08] info: Program: Building embedded zip file for Setup.exe
 [22/05/25 15:54:12] info: Program: Finished Squirrel Updater
+[22/05/25 16:27:22] info: Program: Starting Squirrel Updater: --releasify CuttingMachineReport.1.0.1.nupkg
+[22/05/25 16:27:22] info: Program: Bootstrapper EXE found at:C:\Users\aegon.nguyen\Source\repos\CuttingMachineReport\packages\squirrel.windows.2.0.1\tools\Setup.exe
+[22/05/25 16:27:22] info: Program: Creating release package: C:\Users\aegon.nguyen\Source\repos\CuttingMachineReport\Releases\CuttingMachineReport.1.0.1.nupkg
+[22/05/25 16:27:22] info: ReleasePackage: Creating release package: C:\Users\aegon.nguyen\Source\repos\CuttingMachineReport\Releases\CuttingMachineReport.1.0.1.nupkg => C:\Users\aegon.nguyen\Source\repos\CuttingMachineReport\Releases\CuttingMachineReport-1.0.1-full.nupkg
+[22/05/25 16:27:22] info: ReleasePackage: Extracting dependent packages: []
+[22/05/25 16:27:22] info: ReleasePackage: Removing unnecessary data
+[22/05/25 16:27:22] info: ReleasePackage: No release notes found in C:\Users\aegon.nguyen\AppData\Local\SquirrelTemp\tempa\CuttingMachineReport.nuspec
+[22/05/25 16:27:22] info: DeltaPackageBuilder: Extracting .\Releases\CuttingMachineReport-1.0.0-full.nupkg and C:\Users\aegon.nguyen\Source\repos\CuttingMachineReport\Releases\CuttingMachineReport-1.0.1-full.nupkg into C:\Users\aegon.nguyen\AppData\Local\SquirrelTemp\tempb
+[22/05/25 16:27:22] info: DeltaPackageBuilder: Delta patching C:\Users\aegon.nguyen\AppData\Local\SquirrelTemp\tempa\lib\net45\CuttingMachineReport.exe => C:\Users\aegon.nguyen\AppData\Local\SquirrelTemp\tempb\lib\net45\CuttingMachineReport.exe
+[22/05/25 16:27:22] info: DeltaPackageBuilder: \lib\net45\CuttingMachineReport_ExecutionStub.exe hasn't changed, writing dummy file
+[22/05/25 16:27:22] info: Program: Building embedded zip file for Setup.exe
+[22/05/25 16:27:23] info: Program: Finished Squirrel Updater
