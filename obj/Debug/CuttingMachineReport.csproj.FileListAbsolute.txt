@@ -1,0 +1,9 @@
+C:\Users\aegon.nguyen\Source\repos\CuttingMachineReport\bin\Debug\CuttingMachineReport.exe.config
+C:\Users\aegon.nguyen\Source\repos\CuttingMachineReport\bin\Debug\CuttingMachineReport.exe
+C:\Users\aegon.nguyen\Source\repos\CuttingMachineReport\bin\Debug\CuttingMachineReport.pdb
+C:\Users\aegon.nguyen\Source\repos\CuttingMachineReport\obj\Debug\CuttingMachineReport.csproj.AssemblyReference.cache
+C:\Users\aegon.nguyen\Source\repos\CuttingMachineReport\obj\Debug\CuttingMachineReport.Properties.Resources.resources
+C:\Users\aegon.nguyen\Source\repos\CuttingMachineReport\obj\Debug\CuttingMachineReport.csproj.GenerateResource.cache
+C:\Users\aegon.nguyen\Source\repos\CuttingMachineReport\obj\Debug\CuttingMachineReport.csproj.CoreCompileInputs.cache
+C:\Users\aegon.nguyen\Source\repos\CuttingMachineReport\obj\Debug\CuttingMachineReport.exe
+C:\Users\aegon.nguyen\Source\repos\CuttingMachineReport\obj\Debug\CuttingMachineReport.pdb
