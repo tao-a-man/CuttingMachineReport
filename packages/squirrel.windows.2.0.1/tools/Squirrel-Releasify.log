@@ -73,3 +73,30 @@ File name: 'CuttingMachineReport.1.0.1.nupkg'
 [23/05/25 08:07:59] info: ReleasePackage: No release notes found in C:\Users\aegon.nguyen\AppData\Local\SquirrelTemp\tempa\CuttingMachineReport.nuspec
 [23/05/25 08:07:59] info: Program: Building embedded zip file for Setup.exe
 [23/05/25 08:08:00] info: Program: Finished Squirrel Updater
+[23/05/25 08:23:20] info: Program: Starting Squirrel Updater: --releasify MySquirrelApp.1.0.4.nupkg
+[23/05/25 08:23:20] info: Program: Bootstrapper EXE found at:C:\Users\aegon.nguyen\Source\repos\CuttingMachineReport\packages\squirrel.windows.2.0.1\tools\Setup.exe
+[23/05/25 08:23:20] fatal: Finished with unhandled exception: System.IO.FileNotFoundException: Could not find file 'MySquirrelApp.1.0.4.nupkg'.
+File name: 'MySquirrelApp.1.0.4.nupkg'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at Squirrel.Update.Program.Releasify(String package, String targetDir, String packagesDir, String bootstrapperExe, String backgroundGif, String signingOpts, String baseUrl, String setupIcon, Boolean generateMsi, Boolean packageAs64Bit, String frameworkVersion, Boolean generateDeltas)
+   at Squirrel.Update.Program.executeCommandLine(String[] args)
+   at Squirrel.Update.Program.main(String[] args)
+[23/05/25 08:23:52] info: Program: Starting Squirrel Updater: --releasify MySquirrelApp.1.0.4.nupkg
+[23/05/25 08:23:52] info: Program: Bootstrapper EXE found at:C:\Users\aegon.nguyen\Source\repos\CuttingMachineReport\packages\squirrel.windows.2.0.1\tools\Setup.exe
+[23/05/25 08:23:52] fatal: Finished with unhandled exception: System.IO.FileNotFoundException: Could not find file 'MySquirrelApp.1.0.4.nupkg'.
+File name: 'MySquirrelApp.1.0.4.nupkg'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at Squirrel.Update.Program.Releasify(String package, String targetDir, String packagesDir, String bootstrapperExe, String backgroundGif, String signingOpts, String baseUrl, String setupIcon, Boolean generateMsi, Boolean packageAs64Bit, String frameworkVersion, Boolean generateDeltas)
+   at Squirrel.Update.Program.executeCommandLine(String[] args)
+   at Squirrel.Update.Program.main(String[] args)
+[23/05/25 08:32:04] info: Program: Starting Squirrel Updater: --releasify CuttingMachineReport.1.0.5.nupkg
+[23/05/25 08:32:04] info: Program: Bootstrapper EXE found at:C:\Users\aegon.nguyen\Source\repos\CuttingMachineReport\packages\squirrel.windows.2.0.1\tools\Setup.exe
+[23/05/25 08:32:04] info: Program: Creating release package: C:\Users\aegon.nguyen\Source\repos\CuttingMachineReport\Releases\CuttingMachineReport.1.0.5.nupkg
+[23/05/25 08:32:04] info: ReleasePackage: Creating release package: C:\Users\aegon.nguyen\Source\repos\CuttingMachineReport\Releases\CuttingMachineReport.1.0.5.nupkg => C:\Users\aegon.nguyen\Source\repos\CuttingMachineReport\Releases\CuttingMachineReport-1.0.5-full.nupkg
+[23/05/25 08:32:04] info: ReleasePackage: Extracting dependent packages: []
+[23/05/25 08:32:04] info: ReleasePackage: Removing unnecessary data
+[23/05/25 08:32:04] info: ReleasePackage: No release notes found in C:\Users\aegon.nguyen\AppData\Local\SquirrelTemp\tempa\CuttingMachineReport.nuspec
+[23/05/25 08:32:04] info: Program: Building embedded zip file for Setup.exe
+[23/05/25 08:32:05] info: Program: Finished Squirrel Updater

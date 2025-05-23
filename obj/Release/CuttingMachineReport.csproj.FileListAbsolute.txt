@@ -18,11 +18,10 @@ C:\Users\aegon.nguyen\Source\repos\CuttingMachineReport\bin\Release\Mono.Cecil.R
 C:\Users\aegon.nguyen\Source\repos\CuttingMachineReport\bin\Release\NuGet.Squirrel.pdb
 C:\Users\aegon.nguyen\Source\repos\CuttingMachineReport\bin\Release\Squirrel.pdb
 C:\Users\aegon.nguyen\Source\repos\CuttingMachineReport\obj\Release\CuttingMachineReport.csproj.AssemblyReference.cache
+C:\Users\aegon.nguyen\Source\repos\CuttingMachineReport\obj\Release\CuttingMachineReport.Form1.resources
 C:\Users\aegon.nguyen\Source\repos\CuttingMachineReport\obj\Release\CuttingMachineReport.Properties.Resources.resources
 C:\Users\aegon.nguyen\Source\repos\CuttingMachineReport\obj\Release\CuttingMachineReport.csproj.GenerateResource.cache
 C:\Users\aegon.nguyen\Source\repos\CuttingMachineReport\obj\Release\CuttingMachineReport.csproj.CoreCompileInputs.cache
 C:\Users\aegon.nguyen\Source\repos\CuttingMachineReport\obj\Release\CuttingM.2CB57204.Up2Date
 C:\Users\aegon.nguyen\Source\repos\CuttingMachineReport\obj\Release\CuttingMachineReport.exe
 C:\Users\aegon.nguyen\Source\repos\CuttingMachineReport\obj\Release\CuttingMachineReport.pdb
-C:\Users\aegon.nguyen\Source\repos\CuttingMachineReport\obj\Release\CuttingMachineReport.Form1.resources
-C:\Users\aegon.nguyen\Source\repos\CuttingMachineReport\obj\Release\CuttingMachineReport.exe.config

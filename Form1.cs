@@ -21,7 +21,7 @@ namespace CuttingMachineReport
         {
             string password = textBoxPassword.Text;
             // Add your login logic here
-            MessageBox.Show($"Password: {password}");
+            MessageBox.Show($"Password2: {password}");
         }
     }
 }

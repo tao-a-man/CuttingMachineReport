@@ -36,7 +36,7 @@ namespace CuttingMachineReport
             catch (Exception ex)
             {
                 // Log hoặc bỏ qua nếu không thể update
-                Console.WriteLine("Update failed: " + ex.Message);
+                Console.WriteLine("Update failed2: " + ex.Message);
             }
         }
     }
