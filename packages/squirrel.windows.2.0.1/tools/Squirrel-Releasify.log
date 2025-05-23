@@ -64,3 +64,12 @@ File name: 'CuttingMachineReport.1.0.1.nupkg'
 [23/05/25 07:52:56] info: ReleasePackage: No release notes found in C:\Users\aegon.nguyen\AppData\Local\SquirrelTemp\tempa\CuttingMachineReport.nuspec
 [23/05/25 07:52:56] info: Program: Building embedded zip file for Setup.exe
 [23/05/25 07:52:57] info: Program: Finished Squirrel Updater
+[23/05/25 08:07:59] info: Program: Starting Squirrel Updater: --releasify CuttingMachineReport.1.0.3.nupkg
+[23/05/25 08:07:59] info: Program: Bootstrapper EXE found at:C:\Users\aegon.nguyen\Source\repos\CuttingMachineReport\packages\squirrel.windows.2.0.1\tools\Setup.exe
+[23/05/25 08:07:59] info: Program: Creating release package: C:\Users\aegon.nguyen\Source\repos\CuttingMachineReport\Releases\CuttingMachineReport.1.0.3.nupkg
+[23/05/25 08:07:59] info: ReleasePackage: Creating release package: C:\Users\aegon.nguyen\Source\repos\CuttingMachineReport\Releases\CuttingMachineReport.1.0.3.nupkg => C:\Users\aegon.nguyen\Source\repos\CuttingMachineReport\Releases\CuttingMachineReport-1.0.3-full.nupkg
+[23/05/25 08:07:59] info: ReleasePackage: Extracting dependent packages: []
+[23/05/25 08:07:59] info: ReleasePackage: Removing unnecessary data
+[23/05/25 08:07:59] info: ReleasePackage: No release notes found in C:\Users\aegon.nguyen\AppData\Local\SquirrelTemp\tempa\CuttingMachineReport.nuspec
+[23/05/25 08:07:59] info: Program: Building embedded zip file for Setup.exe
+[23/05/25 08:08:00] info: Program: Finished Squirrel Updater
