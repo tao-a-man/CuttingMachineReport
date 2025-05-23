@@ -46,3 +46,21 @@ File name: 'CuttingMachineReport.1.0.0.nupkg'
 [22/05/25 16:27:22] info: DeltaPackageBuilder: \lib\net45\CuttingMachineReport_ExecutionStub.exe hasn't changed, writing dummy file
 [22/05/25 16:27:22] info: Program: Building embedded zip file for Setup.exe
 [22/05/25 16:27:23] info: Program: Finished Squirrel Updater
+[23/05/25 07:52:46] info: Program: Starting Squirrel Updater: --releasify CuttingMachineReport.1.0.1.nupkg
+[23/05/25 07:52:46] info: Program: Bootstrapper EXE found at:C:\Users\aegon.nguyen\Source\repos\CuttingMachineReport\packages\squirrel.windows.2.0.1\tools\Setup.exe
+[23/05/25 07:52:46] fatal: Finished with unhandled exception: System.IO.FileNotFoundException: Could not find file 'CuttingMachineReport.1.0.1.nupkg'.
+File name: 'CuttingMachineReport.1.0.1.nupkg'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at Squirrel.Update.Program.Releasify(String package, String targetDir, String packagesDir, String bootstrapperExe, String backgroundGif, String signingOpts, String baseUrl, String setupIcon, Boolean generateMsi, Boolean packageAs64Bit, String frameworkVersion, Boolean generateDeltas)
+   at Squirrel.Update.Program.executeCommandLine(String[] args)
+   at Squirrel.Update.Program.main(String[] args)
+[23/05/25 07:52:56] info: Program: Starting Squirrel Updater: --releasify CuttingMachineReport.1.0.2.nupkg
+[23/05/25 07:52:56] info: Program: Bootstrapper EXE found at:C:\Users\aegon.nguyen\Source\repos\CuttingMachineReport\packages\squirrel.windows.2.0.1\tools\Setup.exe
+[23/05/25 07:52:56] info: Program: Creating release package: C:\Users\aegon.nguyen\Source\repos\CuttingMachineReport\Releases\CuttingMachineReport.1.0.2.nupkg
+[23/05/25 07:52:56] info: ReleasePackage: Creating release package: C:\Users\aegon.nguyen\Source\repos\CuttingMachineReport\Releases\CuttingMachineReport.1.0.2.nupkg => C:\Users\aegon.nguyen\Source\repos\CuttingMachineReport\Releases\CuttingMachineReport-1.0.2-full.nupkg
+[23/05/25 07:52:56] info: ReleasePackage: Extracting dependent packages: []
+[23/05/25 07:52:56] info: ReleasePackage: Removing unnecessary data
+[23/05/25 07:52:56] info: ReleasePackage: No release notes found in C:\Users\aegon.nguyen\AppData\Local\SquirrelTemp\tempa\CuttingMachineReport.nuspec
+[23/05/25 07:52:56] info: Program: Building embedded zip file for Setup.exe
+[23/05/25 07:52:57] info: Program: Finished Squirrel Updater

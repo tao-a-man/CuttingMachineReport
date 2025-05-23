@@ -25,3 +25,4 @@ C:\Users\aegon.nguyen\Source\repos\CuttingMachineReport\obj\Release\CuttingM.2CB
 C:\Users\aegon.nguyen\Source\repos\CuttingMachineReport\obj\Release\CuttingMachineReport.exe
 C:\Users\aegon.nguyen\Source\repos\CuttingMachineReport\obj\Release\CuttingMachineReport.pdb
 C:\Users\aegon.nguyen\Source\repos\CuttingMachineReport\obj\Release\CuttingMachineReport.Form1.resources
+C:\Users\aegon.nguyen\Source\repos\CuttingMachineReport\obj\Release\CuttingMachineReport.exe.config
