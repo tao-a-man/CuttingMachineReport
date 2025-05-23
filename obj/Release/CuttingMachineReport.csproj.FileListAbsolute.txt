@@ -25,3 +25,4 @@ C:\Users\aegon.nguyen\Source\repos\CuttingMachineReport\obj\Release\CuttingMachi
 C:\Users\aegon.nguyen\Source\repos\CuttingMachineReport\obj\Release\CuttingM.2CB57204.Up2Date
 C:\Users\aegon.nguyen\Source\repos\CuttingMachineReport\obj\Release\CuttingMachineReport.exe
 C:\Users\aegon.nguyen\Source\repos\CuttingMachineReport\obj\Release\CuttingMachineReport.pdb
+C:\Users\aegon.nguyen\Source\repos\CuttingMachineReport\obj\Release\CuttingMachineReport.exe.config

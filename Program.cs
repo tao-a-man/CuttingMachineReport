@@ -17,7 +17,7 @@ namespace CuttingMachineReport
         {
 
             // Chạy update trước khi mở form
-            Task.Run(async () => await CheckForUpdates()).Wait();
+            //Task.Run(async () => await CheckForUpdates()).Wait();
 
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
