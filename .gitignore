@@ -1,0 +1,9 @@
+
+eins-mobile/unpackage/dist/*
+eins-mobile/unpackage/
+.idea/
+node_modules/
+.vs/
+bin/
+obj/*
+packages/
